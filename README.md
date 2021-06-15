@@ -1,5 +1,5 @@
-## Olá, sou @EdelbertoRosler.
+## Olá, me chamo @EdelbertoRosler.
 ### - Sou estudante de Análise e Desenvolvimento de Sistemas.
-### - Atualmente, meu interesse é nas linguagens Python e Java.
-### - Sou iniciante em programção e estou buscando melhorar meus conhecimentos diariamente.
+### - Tenho conhecimentos básicos em Python, Java, Django e MySql
+### - Ainda não possuo experiência prática em projetos reais, mas estou buscando melhorar constantemente minhas habilidades para encontrar uma oportunidade.
 ### - Acredito que a tecnologia, com o conhecimento e as pessoas certas, pode mudar o mundo para melhor.
