@@ -1,6 +1,6 @@
 ## Olá, me chamo Edelberto Rosler.
 ### Sou estudante de Análise e Desenvolvimento de Sistemas.
-### Tenho conhecimentos básicos em Python, Java e Sql
+### Tenho conhecimentos básicos em Java, Python e Sql, mas, atualmete estou priorizando o estudo do Java.
 ### Estou buscando melhorar constantemente minhas habilidades e meus conhecimentos através de Cursos, Bootcamps, Workshops e muita prática, a fim de desenvolver meu potêncial.
 ### Sou curioso, atento a novas tecnologias, por isso, estou sempre estudando.
 ### Sou organizado, concentrado e tenho boa interpretação lógica.
