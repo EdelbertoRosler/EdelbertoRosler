@@ -1,4 +1,4 @@
-## Olá, me chamo Edelberto Rosler.
+## Olá, me chamo Edelberto Rösler.
 ### Sou estudante de Análise e Desenvolvimento de Sistemas.
 ### Tenho conhecimentos básicos em Java, Python, PHP e JavaScript, no entanto, atualmete estou priorizando o estudo do PHP.
 ### Estou buscando melhorar constantemente minhas habilidades e meus conhecimentos através de Cursos, Bootcamps, Workshops e muita prática, a fim de desenvolver meu potêncial nessas habilidades.
